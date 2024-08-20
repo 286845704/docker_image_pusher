@@ -1,1 +1,4 @@
-kubesphere/kube-state-metrics:v2.6.0
+prom/alertmanager:v0.23.0
+kubesphere/prometheus-config-reloader:v0.55.1
+kubesphere/notification-manager:v2.3.0
+kubesphere/notification-tenant-sidecar:v3.2.0
