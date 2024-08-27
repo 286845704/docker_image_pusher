@@ -1,1 +1,1 @@
-kubesphere/kube-rbac-proxy:v0.11.0
+dockerhub/mysql:5.7.35
