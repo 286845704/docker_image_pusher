@@ -1,1 +1,1 @@
-dockerhub/mysql:5.7.35
+library/mysql:5.7.35
