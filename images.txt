@@ -1,1 +1,1 @@
-redis:latest
+elasticsearch:7.13.4
