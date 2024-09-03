@@ -1,1 +1,1 @@
-minio/mc:RELEASE.2019-08-07T23-14-43Z
+nacos/nacos:2.4.0
