@@ -1,1 +1,1 @@
-haproxy:latest
+redis:5.8
