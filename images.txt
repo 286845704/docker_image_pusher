@@ -1,1 +1,1 @@
-java:latest
+ascdc/jdk8:latest
