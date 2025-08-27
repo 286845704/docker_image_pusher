@@ -1,1 +1,2 @@
-registry.k8s.io/metrics-server/metrics-server:v0.8.0
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
