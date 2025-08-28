@@ -1,1 +1,1 @@
- docker.io/rook/ceph:master
+docker.io/rook/ceph:v1.18.0
