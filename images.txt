@@ -1,1 +1,1 @@
-openark/orchestrator:v3.2.6
+openark/orchestrator:3.2.6
