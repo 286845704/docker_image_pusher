@@ -1,1 +1,1 @@
-hhyo/archery-base:sha-d8159f4
+sonarqube:latest
