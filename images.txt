@@ -1,1 +1,1 @@
-vettabase/mysql-old:5.0
+docker pull mysql/mysql-server:5.0
