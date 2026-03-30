@@ -1,1 +1,1 @@
-mysql:5.0.7
+vettabase/mysql-old:5.0
